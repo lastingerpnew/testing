@@ -93,3 +93,10 @@ $chat_with_name = $resulttt['name'];
 	var base_url = '<?php echo base_url() ?>';
 
     </script>
+	 <script type="text/javascript">
+	
+      var chat_id = "<?php echo $chat_id; ?>";
+      var user_id = "<?php echo $user_id; ?>";
+	var base_url = '<?php echo base_url() ?>';
+
+    </script>
